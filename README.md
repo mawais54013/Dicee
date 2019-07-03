@@ -1,6 +1,4 @@
-# Dicee
-
-Recent Update: This app is updated with constraints to fit sizes of all iphones. 
+# Dicee 
 
 This IOS app is an dice shaker where users can shake their phone or press the button to enable dice randomizer. Using IOS swift to make this simple app. 
 
